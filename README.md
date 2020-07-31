@@ -4,7 +4,6 @@
 | Name | Tags |
 | ------ | ------ |
 | Portuguese (I'm a native) | ![](https://github.com/wesleyramalho/wesleyramalho/blob/master/-advanced-green.svg) ![](https://github.com/wesleyramalho/wesleyramalho/blob/master/-work--experience-brightgreen.svg) ![](https://github.com/wesleyramalho/wesleyramalho/blob/master/-college--experience-informational.svg) |
-| Portuguese (I'm a native) | ![](https://github.com/wesleyramalho/wesleyramalho/blob/master/-advanced-green.svg) ![](https://github.com/wesleyramalho/wesleyramalho/blob/master/-work--experience-brightgreen.svg) ![](https://github.com/wesleyramalho/wesleyramalho/blob/master/-college--experience-informational.svg) |
 | English | ![](https://github.com/wesleyramalho/wesleyramalho/blob/master/-advanced-green.svg) ![](https://github.com/wesleyramalho/wesleyramalho/blob/master/-work--experience-brightgreen.svg) ![](https://github.com/wesleyramalho/wesleyramalho/blob/master/-college--experience-informational.svg) |
 | Spanish | ![](https://github.com/wesleyramalho/wesleyramalho/blob/master/-beginner-yellow.svg) |
 
